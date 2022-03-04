@@ -1,0 +1,81 @@
+### Reflections on Solo Technical Challenges
+<hr>
+
+<b>MONDAY: Millions of Numbers</b>
+
+Please take 1 hour to work through Millions of Numbers (prompt found here) on your own.
+Once the hour is up: Meet with a peer from your group to discuss your process and implementation.
+
+<b>Write an individual reflection answering the following:</b>
+- What felt good about your process?
+  - I think I started off with good pseudo code.
+- What was difficult/where did you struggle?
+  - For my first technical challenge, I struggled a lot, it felt like going back to mod 1.
+- What feedback did you receive?
+  - Feedback: None because I didn't finish it, I spent three hours doing a tech challenge for a job.
+
+<b>TUESDAY: What Did I Order?</b>
+
+Please take 1 hour to work through What Did I Order? (prompt found here) on your own.
+Once the hour is up: Meet with a peer from your group to discuss your process and implementation.
+
+<b>Write an individual reflection answering the following:</b>
+- What felt good about your process?
+  - knowing that it required recursion
+- What was difficult/where did you struggle?
+  - figuring out where to use recursion
+- What feedback did you receive?
+  - Feedback: I was close when iterating over the menu hash to compare the price to the receipt. Also, on the right track with using recursion
+- Were you able to improve from the previous challenge? What went better?
+  - not really, but I was able to spend more time on it which helped me to understand the problem better.
+
+<b>WEDNESDAY: Snails</b>
+
+Today you will be working with a partner. Please coordinate partners within your groups. If you have an odd number, you can all work together and coordinate how you want to split your time so that everyone has the opportunity to practice talking through their problem breakdown.
+The focus of this exercise is to practice communicating your process out loud as you work through a challenge.
+- Please follow the instructions outlined here under paired challenges.
+- Each student should have 40 minutes to work through their prompt.
+- Observers should actively listen and provide feedback at the end of 40 minutes. Guiding feedback questions are here.
+- Switch Roles
+
+Prompts are found here. Please use Robot, Snail, and Roman Numerals. Three challenges are provided so that everyone in odd number groups has a different problem to work on. Each person should only talk through one challenge.
+mod4.turing.edumod4.turing.edu
+
+<b>Write an individual reflection answering the following:</b>
+- What felt good about your process?
+  - Not a lot, it was super uncomfortable, I had to lean in to talking through the problem to understand what the challenge was.
+- What was difficult/where did you struggle?
+  - Articulating my thought process
+- What feedback did you receive?
+  - Feedback: talk about what I'm typing. During silence let them know what I'm thinking; go over assumptions (understanding) and continue to iterate over it, explain changes as they happen
+- Were you able to improve from the previous challenge? What went better?
+  - Yes, I was to solve the problem and refactor. I was less rusty which allowed me to get to a solution within an hour.
+
+<b>THURSDAY: Palindromic Sum</b>
+
+Same setup as yesterday!
+- Please follow the instructions outlined here under paired challenges.
+- Each student should have 40 minutes to work through their prompt.
+- Observers should actively listen and provide feedback at the end of 40 minutes. Guiding feedback questions are here.
+- Switch Roles
+
+Prompts are found here. Please use Next Palindrome, Palindromic Sum, and Target & Payload. Three challenges are provided so that everyone in odd number groups has a different problem to work on. Each person should only talk through one challenge.
+
+<b>Write an individual reflection answering the following:</b>
+- What felt good about your process?
+  - I felt more confident in talking through my thought my process as I worked through the problem.
+- What was difficult/where did you struggle?
+  - I always struggle with understanding the problem in a reasonable amount of time.
+- What feedback did you receive?
+  - Feedback: more verbal this time; tried to understand before diving in; asked questions; wrote assumptions; named what I need to return
+- Were you able to improve from the previous challenge? What went better?
+  - Absolutely, I talked through my process and solved it within the time frame
+
+<b>FRIDAY: N/A</b>
+Happy Friday! Today you have dedicated time to reflect on how this week went and what you've been able to accomplish.
+Please write a reflection in a gist answering these questions:
+- What do you want to continue working on?
+- How will you continue working on it?
+- How can you keep yourself accountable? (ex. meet with peers, meet with a mentor, continue with weekly reflections, etc.)
+After you've completed your reflection please complete this survey
+Meet with your peer group to share your thoughts and take-aways.
