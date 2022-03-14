@@ -1,7 +1,16 @@
-This question is asked by Google. Given a string, reverse all of its characters and return the resulting string.
+# This question is asked by Google. Given a string, reverse all of its characters and return the resulting string.
+#
+# Ex: Given the following strings...
+#
+# “Cat”, return “taC”
+# “The Daily Byte”, return "etyB yliaD ehT”
+# “civic”, return “civic”
 
-Ex: Given the following strings...
+word = "Cat"
 
-“Cat”, return “taC”
-“The Daily Byte”, return "etyB yliaD ehT”
-“civic”, return “civic”
+def rev_string(word)
+  word.reverse
+end
+
+puts rev_string("The Daily Byte")
+# => "etyB yliaD ehT”
